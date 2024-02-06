@@ -1,0 +1,1 @@
+# stargc-openshift-poc
